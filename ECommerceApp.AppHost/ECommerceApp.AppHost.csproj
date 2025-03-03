@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <Sdk Name="Aspire.AppHost.Sdk" Version="9.0.0" />
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsAspireHost>true</IsAspireHost>
+    <UserSecretsId>99b04ea0-2f42-442d-ae1e-9b4652e99429</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ECommerce.Auth.Api\ECommerceApp.Auth.Api.csproj" />
+    <ProjectReference Include="..\ECommerceApp.ApiService\ECommerceApp.ApiService.csproj" />
+    <ProjectReference Include="..\ECommerceApp.Cart.Api\ECommerceApp.Cart.Api.csproj" />
+    <ProjectReference Include="..\EcommerceApp.Order.API\EcommerceApp.Order.Api.csproj" />
+    <ProjectReference Include="..\ECommerceApp.Payment.Api\ECommerceApp.Payment.Api.csproj" />
+    <ProjectReference Include="..\ECommerceApp.Product.API\ECommerceApp.Product.Api.csproj" />
+    <ProjectReference Include="..\ECommerceApp.Web\ECommerceApp.Web.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.Hosting" Version="9.0.0" />
+    <PackageReference Include="Aspire.Hosting.AppHost" Version="9.0.0" />
+    <PackageReference Include="Aspire.Hosting.Redis" Version="9.0.0" />
+    <PackageReference Include="Aspire.Hosting.SqlServer" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="9.0.2" />
+  </ItemGroup>
+
+</Project>

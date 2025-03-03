@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NW2zTgK84ByZt2R5n8Aw8J98L1Hi0yJ4sivRlu1Z2Kw=",
+  "Source": "ECommerceApp.Auth.Api",
+  "BasePath": "_content/ECommerceApp.Auth.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

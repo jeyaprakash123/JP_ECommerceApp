@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cfDpy2rzC8tac4RCwOG+LqUm4dg1FSAMMMTPpiBh+IU=",
+  "Source": "ECommerceApp.Cart.Api",
+  "BasePath": "_content/ECommerceApp.Cart.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

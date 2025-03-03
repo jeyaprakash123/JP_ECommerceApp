@@ -1,0 +1,13 @@
+C:\Users\Jayaprakash\source\repos\ECommerceApp\ECommerceApp.ServiceDefaults\bin\Debug\net9.0\ECommerceApp.ServiceDefaults.deps.json
+C:\Users\Jayaprakash\source\repos\ECommerceApp\ECommerceApp.ServiceDefaults\bin\Debug\net9.0\ECommerceApp.ServiceDefaults.dll
+C:\Users\Jayaprakash\source\repos\ECommerceApp\ECommerceApp.ServiceDefaults\bin\Debug\net9.0\ECommerceApp.ServiceDefaults.pdb
+C:\Users\Jayaprakash\source\repos\ECommerceApp\ECommerceApp.ServiceDefaults\obj\Debug\net9.0\ECommerceApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Jayaprakash\source\repos\ECommerceApp\ECommerceApp.ServiceDefaults\obj\Debug\net9.0\ECommerceApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayaprakash\source\repos\ECommerceApp\ECommerceApp.ServiceDefaults\obj\Debug\net9.0\ECommerceApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Jayaprakash\source\repos\ECommerceApp\ECommerceApp.ServiceDefaults\obj\Debug\net9.0\ECommerceApp.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Jayaprakash\source\repos\ECommerceApp\ECommerceApp.ServiceDefaults\obj\Debug\net9.0\ECommerceApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Jayaprakash\source\repos\ECommerceApp\ECommerceApp.ServiceDefaults\obj\Debug\net9.0\ECommerceApp.ServiceDefaults.sourcelink.json
+C:\Users\Jayaprakash\source\repos\ECommerceApp\ECommerceApp.ServiceDefaults\obj\Debug\net9.0\ECommerceApp.ServiceDefaults.dll
+C:\Users\Jayaprakash\source\repos\ECommerceApp\ECommerceApp.ServiceDefaults\obj\Debug\net9.0\refint\ECommerceApp.ServiceDefaults.dll
+C:\Users\Jayaprakash\source\repos\ECommerceApp\ECommerceApp.ServiceDefaults\obj\Debug\net9.0\ECommerceApp.ServiceDefaults.pdb
+C:\Users\Jayaprakash\source\repos\ECommerceApp\ECommerceApp.ServiceDefaults\obj\Debug\net9.0\ref\ECommerceApp.ServiceDefaults.dll

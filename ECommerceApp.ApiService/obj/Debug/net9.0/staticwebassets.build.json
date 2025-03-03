@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YqF//L4TrgCjyvIuVxJV8dICEu8QWeYpSUEAx94B+9E=",
+  "Source": "ECommerceApp.ApiService",
+  "BasePath": "_content/ECommerceApp.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
